@@ -15,7 +15,7 @@ I'm a Mechancial Engineer student at UWaterloo passionate about product design a
 </p>
 <p align="center">_______________________________________________________________________________________________________________________________</p>
 <p align="center">
-Feel Free To Reach Me!:
+Feel Free To Reach Me:
 </p>
 <p align="center">
 ✉ Sofia.carrioncorveira@gmail.com ✉ 
