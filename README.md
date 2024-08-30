@@ -22,7 +22,7 @@ Feel Free To Reach Me!:
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/brauliocc/](https://www.linkedin.com/in/sofia-carrion-corveira-7a20632a9/)" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" alt="LinkedIn" width="50" height="50"></a>
+  Linkedin: sofia-carrion-corveira
 </p>
 
 
